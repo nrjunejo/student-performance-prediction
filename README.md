@@ -3,6 +3,7 @@
 > **Student Academic Performance Prediction** uses data science and machine learning to uncover how student habits influence academic success. This project processes real-world educational data, builds predictive models, and delivers actionable insights through an interactive Streamlit web app. It demonstrates end-to-end expertise in Python, data preprocessing, model development, visualization, and web deployment.
 
 ---
+## **Demo:** [See Here](https://student-academic-performance-prediction.streamlit.app/)
 
 ## 🎯 Objectives
 
